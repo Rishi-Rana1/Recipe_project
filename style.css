@@ -1,0 +1,28 @@
+#start {
+    text-align: center;
+    background-color: lightblue;
+}
+
+#description {
+    text-align: center;
+    background-color: orange;
+}
+
+#emphesis {
+    color: red;
+}
+
+ol li {
+    background-color: beige;
+    color: blue;
+}
+
+img.pic {
+    height: 300px;
+    width: auto;
+}
+
+.text {
+    font-family: "Times New Roman", "serif-sans";
+    font-size: 22px;
+}
